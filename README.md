@@ -9,7 +9,7 @@ Data | Data parsed
 Images | Graph samples bulit from data
 
 抓取和整理数据的代码在wos.ipynb, 抓取的原始数据在Raw文件夹，整理好的数据在Data文件夹，知识图谱的示例在Images文件夹。
-在Data文件夹中，分别提供了以**city**和**urban planning**为搜索关键词的结果，包括过去两周前五十的热词，前十的热门文章和构建知识图谱所需要的矩阵。
+在Data文件夹中，分别提供了以`city`和`urban planning`为搜索关键词的结果，包括过去两周前五十的热词，前十的热门文章和构建知识图谱所需要的矩阵。
 
 
 ## Visualization
