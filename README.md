@@ -1,1 +1,19 @@
 # world-city-observatory
+
+## Introduction
+
+Folder | Content
+------------ | -------------
+Raw | Data scraped
+Data | Data parsed
+images | Graph samples bulit from data
+
+抓取和整理数据的代码在wos.ipynb, 抓取的原始数据示例在Raw文件夹，整理好的书籍在Data文件夹，知识图谱的示例在Images文件夹。
+在Data文件夹中，分别提供了以‘city’和‘urban planning’为搜索关键词的结果，过去两周前五十热词，前十的热门文章和构建知识图谱所需要的矩阵。
+
+
+## Visualization
+
+对知识图谱进行前端可视化时，可以参考<a href="https://observablehq.com/@d3/force-directed-graph">Force-Directed Graph</a>的例子。在该例子中，数据存放在<a href="https://observablehq.com/@d3/force-directed-graph">文件</a>中，对其进行替换即更新图结构。可以看到，在该文件中，首先定义了nodes，然后是links。将nodes替换为keywords，再把矩阵中的数值作为它们之间的连接强度即可。
+
+
