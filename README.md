@@ -14,6 +14,6 @@ Images | Graph samples bulit from data
 
 ## Visualization
 
-对知识图谱进行前端可视化时，可以参考<a href="https://observablehq.com/@d3/force-directed-graph">Force-Directed Graph</a>的例子。在该例子中，数据存放在<a href="https://observablehq.com/@d3/force-directed-graph">json文件</a>中，对其进行替换即更新图结构。可以看到，该文件首先定义了nodes，然后是links。将nodes替换为前五十的keywords，再把矩阵中的数值作为它们之间的连接强度即可实现可视化。矩阵文件中行和列的命名均是按照keywords文件中的顺序，可视化时可以根据连接数值的大小对知识图谱进行简化。
+对知识图谱进行前端可视化时，可以参考<a href="https://observablehq.com/@d3/force-directed-graph">Force-Directed Graph</a>的例子。在该例子中，数据存放在<a href="https://observablehq.com/@d3/force-directed-graph">json文件</a>中，对其进行替换即可更新图结构。可以看到，该文件首先定义了nodes，然后是links。将nodes替换为前五十的keywords，再把矩阵中的数值作为它们之间的连接强度即可实现可视化。矩阵文件中行和列的命名均是按照keywords文件中的顺序，可视化时可以根据连接数值的大小对知识图谱进行简化。
 
 
