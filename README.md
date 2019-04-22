@@ -22,19 +22,19 @@ Images | Graph samples bulit from data
 
 ## Reference
 
-数据源：
+数据源：  
 Web of Science https://www.webofknowledge.com/
 
-数据处理：
+数据处理：  
 Anaconda https://www.anaconda.com/  
 Selenium https://www.seleniumhq.org/  
 BeautifulSoup https://www.crummy.com/software/BeautifulSoup/bs4/doc/  
 Networkx https://networkx.github.io/
 
-可视化：
+可视化：  
 D3 https://d3js.org/  
 Force-based Label Placement http://bl.ocks.org/MoritzStefaner/1377729
 
-代码库：
+代码库：  
 Github https://github.com/tjciuc/world-city-observatory
 
