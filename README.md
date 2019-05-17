@@ -31,6 +31,9 @@ Selenium https://www.seleniumhq.org/
 BeautifulSoup https://www.crummy.com/software/BeautifulSoup/bs4/doc/  
 Networkx https://networkx.github.io/
 
+命名实体识别：  
+SpaCy https://spacy.io/ 
+
 可视化：  
 D3 https://d3js.org/  
 Force-based Label Placement http://bl.ocks.org/MoritzStefaner/1377729
